@@ -9,7 +9,7 @@
    
 
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasanpula&theme=tokyonight&column=8" alt="pasanpula" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasanpula&theme=tokyonight" alt="pasanpula" /></a> </p> -->
 
 
 
